@@ -1,1 +1,2 @@
-# dio-trilha-java-basico-conta-banco
+# DIO - JAVA BÁSICO - DESAFIO CONTA TERMINAL
+O objetivo do desafio é criar uma simulação simples de conta bancaria aplicando os conceitos de JAVA Básico aprendidos no respectivo módulo estudado, possibilitando a inserção de valores como Agência, Número, Nome, Sobrenome e Saldo. Em seguida a exibição dos valores com a seguinte mensagem "Olá [Nome Sobrenome], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".
